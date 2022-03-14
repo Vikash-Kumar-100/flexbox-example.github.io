@@ -1,4 +1,4 @@
-      @import url('https://fonts.googleapis.com/css2?family=Recursive&display=swap');
+     @import url('https://fonts.googleapis.com/css2?family=Comic+Neue&family=Poppins&display=swap');
       .attribution {
         font-size: 11px;
         text-align: center;
@@ -79,6 +79,7 @@
       .rating_bar p{
         margin: 0 10px;
         /*font-family: cursive;*/
+        font-family: 'Poppins', sans-serif;
         font-size: 14px;
         font-weight: bold;
       }
@@ -172,7 +173,7 @@
         color: white;
       }
       .intro span{
-        font-family: cursive; 
+        font-family: 'Comic Neue',cursive; 
         color: hsl(303, 10%, 53%);
 
       }
